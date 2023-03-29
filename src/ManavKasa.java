@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ManavKasa {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double armutFiyat = 2.14, elmaFiyat = 3.67, domatesFiyat = 1.11, muzFiyat = 0.95, patlicanFiyat = 5.0, elma, armut, muz, patlican, domates, toplam;
 
